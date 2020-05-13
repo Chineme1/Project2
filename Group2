@@ -1,0 +1,20 @@
+# This is the project.
+# You can edit it and make copies and edit it.
+
+A simplified picture of a catalytic channel for surface reactions is show below. Reactants flow
+in from the entry chamber on the left, and exit to the right. The channel walls are coated with a
+catalyst so that reactions occur at surfaces, and the generated products are carried with the
+flow into the exit chamber. 
+
+
+The objective is to examine the flow of reaction products along the channel:
+(a) Import the data file and plot filled contours of the concentration distribution. Provide all
+labels and a colorbar, and ensure that your axes are ‘stretched’ to scale.
+(b) Determine mean (along y) concentration <C> at each x point. From the principles of mass
+transport, it can be shown that the mean concentration follows <C> = Ax**(1/2) . Based on this
+information, perform a nonlinear fit to your <C> values and overlay the fit on top of your
+data. Does the data follow the theoretical square root profile? What is the value of A here?
+(c) Determine the gradient of the concentration in both x and y directions at each point.
+(d) From mass transport calculations, it can be shown that the concentration ‘flux’ (amount of
+product flowing per unit area per unit time) in the two directions at each point are: 
+
