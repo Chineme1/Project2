@@ -6,8 +6,4 @@ HI  ALL!!!
 
 You can edit a version of the code by creating a branch.
 
-
-
-
-
-You click on New pull request, then select the file you would like to edit.
+You can also download, edit, and upload it when you get the chance
